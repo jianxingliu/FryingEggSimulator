@@ -18,3 +18,6 @@ Unity version: 2022.3.60f1
 - [Free Wood Door Pack](https://assetstore.unity.com/packages/3d/props/interior/free-wood-door-pack-280509)
 - [Pandazole - Kitchen Food low poly pack](https://assetstore.unity.com/packages/3d/props/food/pandazole-kitchen-food-low-poly-pack-204525)
 - [Free Kitchen - Cabinets and Equipment](https://assetstore.unity.com/packages/3d/props/interior/free-kitchen-cabinets-and-equipment-245554)
+
+### Note
+Complete project can be find [there](https://pan.sjtu.edu.cn/web/share/035214c8fc41026df2bf9d2b3fca975e).
